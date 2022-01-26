@@ -1,6 +1,6 @@
 
 import PlayerName from "../../components/PlayerName";
-import VsPlayer from "../../components/versus";
+import VsPlayer from "../../components/VsPlayer";
 import "./style.css";
 
 function ScoreBoard() {
